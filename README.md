@@ -1,18 +1,73 @@
-## Getting Started
+# 🐦 Flappy Bird – Java Swing Edition
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Flappy Bird clone** built using **Java and Swing**.  
+This project demonstrates core game development concepts like rendering, animation, and collision detection using Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🎮 Gameplay
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Press **Spacebar** to make the bird jump  
+- Avoid hitting the pipes  
+- Try to achieve the highest score possible  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📂 Project Structure
 
-## Dependency Management
+```
+FlappyBird-Java/
+│
+├── App.java              # Main entry point
+├── FlappyBird.java       # Game logic and rendering
+├── bottompipe.png        # Bottom pipe sprite
+├── toppipe.png           # Top pipe sprite
+├── flappybird.png        # Bird sprite
+├── flappybirdbg.png      # Background image
+├── .gitignore            # Git ignored files
+└── README.md             # Project documentation
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🛠 Technologies Used
+
+- Java
+- Java Swing (JPanel, Graphics)
+- AWT Event Handling
+- Object-Oriented Programming
+
+---
+
+## 🚀 How To Run
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/PranavShadow/FlappyBird-Java.git
+cd FlappyBird-Java
+```
+
+### 2️⃣ Compile the project
+
+```bash
+javac App.java FlappyBird.java
+```
+
+### 3️⃣ Run the game
+
+```bash
+java App
+```
+
+---
+
+## 👨‍💻 Author
+
+**Pranav Gupta**
+
+---
+
+## 📜 License
+
+This project is created for learning purposes.
