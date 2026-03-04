@@ -1,19 +1,24 @@
-# 🐦 Flappy Bird – Java Swing Edition
+# 🐦 Flappy Bird
+
+![Java](https://img.shields.io/badge/Java-Programming-red?logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue)
+![AWT](https://img.shields.io/badge/AWT-Event%20Handling-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 A simple **Flappy Bird clone** built using **Java and Swing**.  
 This project demonstrates core game development concepts like rendering, animation, and collision detection using Java.
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - Press **Spacebar** to make the bird jump  
 - Avoid hitting the pipes  
 - Try to achieve the highest score possible  
 
----
 
-## 📂 Project Structure
+
+## Project Structure
 
 ```
 FlappyBird-Java/
@@ -28,18 +33,8 @@ FlappyBird-Java/
 └── README.md             # Project documentation
 ```
 
----
 
-## 🛠 Technologies Used
-
-- Java
-- Java Swing (JPanel, Graphics)
-- AWT Event Handling
-- Object-Oriented Programming
-
----
-
-## 🚀 How To Run
+## How To Run
 
 ### 1️⃣ Clone the repository
 
@@ -60,14 +55,4 @@ javac App.java FlappyBird.java
 java App
 ```
 
----
 
-## 👨‍💻 Author
-
-**Pranav Gupta**
-
----
-
-## 📜 License
-
-This project is created for learning purposes.
