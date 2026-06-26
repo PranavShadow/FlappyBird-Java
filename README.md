@@ -10,6 +10,20 @@ This project demonstrates core game development concepts like rendering, animati
 
 ---
 
+## Live Demo
+
+🔗 **Play Here:**  
+https://pranavshadow.itch.io/pranav-climb-up-the-hill
+
+<img width="1043" height="841" alt="image" src="https://github.com/user-attachments/assets/decdfce6-db79-421a-bcfd-891a4dea37ba" />
+<img width="1021" height="862" alt="image" src="https://github.com/user-attachments/assets/6675f361-7f2c-491e-b65d-5c6b1552f88b" />
+
+
+## Preview
+
+<img width="355" height="667" alt="image" src="https://github.com/user-attachments/assets/b664b23c-1c00-463e-8bad-bf2ad77a532b" />
+
+
 ## Gameplay
 
 - Press **Spacebar** to make the bird jump  
