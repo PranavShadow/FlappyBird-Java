@@ -13,11 +13,9 @@ This project demonstrates core game development concepts like rendering, animati
 ## Live Demo
 
 🔗 **Play Here:**  
-https://pranavshadow.itch.io/pranav-climb-up-the-hill
+https://pranavshadow.itch.io/flappy-bird
 
-<img width="1043" height="841" alt="image" src="https://github.com/user-attachments/assets/decdfce6-db79-421a-bcfd-891a4dea37ba" />
-<img width="1021" height="862" alt="image" src="https://github.com/user-attachments/assets/6675f361-7f2c-491e-b65d-5c6b1552f88b" />
-
+<img width="1040" height="728" alt="image" src="https://github.com/user-attachments/assets/71d6e880-fe70-46af-b075-2467452ef6fc" />
 
 ## Preview
 
